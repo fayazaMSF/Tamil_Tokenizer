@@ -1,2 +1,2 @@
 # Tamil_Tokenizer
-This is help to tokenize sentence to word. 
+This is help to tokenize Tamil sentence to word. 
